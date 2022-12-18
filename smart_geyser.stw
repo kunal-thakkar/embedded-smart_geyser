@@ -1,0 +1,12 @@
+;	STMicroelectronics Workspace file
+
+[Version]
+Keyword=ST7Workspace-V0.7
+
+[Project0]
+Filename=smart_geyser.stp
+Dependencies=
+[Options]
+ActiveProject=smart_geyser
+ActiveConfig=Release
+AddSortedElements=1
