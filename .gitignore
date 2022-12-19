@@ -1,0 +1,15 @@
+# IAR project
+Debug/
+Release/
+settings/
+Backup*
+*.dep
+
+# Compiled binaries
+*.bin
+*.elf
+*.hex
+*.map
+
+# Trash
+*.bak
